@@ -7,7 +7,7 @@ void main(){
 
   print("my details");// direct string printing
   print("my name is $name");// string intercolation-> ${}
-  print("$age yrs old");
+  print("$age i am yrs old");
   print("mark:$mark");
   print("email:$email");
   print("phone:$phone");
