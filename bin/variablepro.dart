@@ -1,5 +1,3 @@
-import 'package:test/expect.dart';
-
 void main(){
   String name ="mahin"; //variable
   int age =22;
