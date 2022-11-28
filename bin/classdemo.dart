@@ -30,6 +30,7 @@ class mydata{
    print('phone = ${stud2.phone=9656997193}');
    print("college =${mydata.college}");
 
+
  }
 
 
