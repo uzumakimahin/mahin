@@ -12,7 +12,7 @@ void main(){
   print("age:$age");
   print("mark:$mark");
   print("email:$email");
-  print("phone:$email");
+  print("phone:$phone");
 }
 /// i want inthe given format
 /// my detail
