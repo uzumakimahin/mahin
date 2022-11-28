@@ -6,8 +6,8 @@ void main(){
   int phone =9895997193;
 
   print("my details");// direct string printing
-  print("name:$name");// string intercolation-> ${}
-  print("age:$age");
+  print("my name is $name");// string intercolation-> ${}
+  print("$age yrs old");
   print("mark:$mark");
   print("email:$email");
   print("phone:$phone");
