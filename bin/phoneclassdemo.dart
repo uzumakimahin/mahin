@@ -25,11 +25,4 @@ void main(){
   print('processor=${phone2.processor='snapdragon8gem'}');
   print('ram=${phone2.ram=16}');
   print("brand=${Noteseries.brand}");
-
-
-
-
-
-
-
 }
