@@ -27,11 +27,10 @@ class Maths {
     print('div=$div');
   }
 }
-void main(){
+void main() {
   Maths obj = Maths();
   obj.add();
   obj.sub();
   obj.mul();
   obj.div();
-
 }
