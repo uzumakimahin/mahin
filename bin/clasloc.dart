@@ -29,8 +29,9 @@ class Maths {
 }
 void main() {
   Maths obj = Maths();
-  obj.add();
-  obj.sub();
-  obj.mul();
-  obj.div();
+  obj
+    ..add()
+    ..sub()
+    ..mul()
+    ..div();
 }
