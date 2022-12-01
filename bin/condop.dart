@@ -1,6 +1,6 @@
 void main(){
   var age= 17;
-  var result = age >18 ? "welcome":"not eligible";
+  var result = age<18 ? "welcome":"not eligible";
   print(result);
   var uname = 'mahin';
   var password = 12345;
