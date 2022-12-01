@@ -2,7 +2,7 @@ import 'dart:io';
 
 void main(){
   print("enter ur name");
-  String name =stdin.readLineSync()!;
+  String name = stdin.readLineSync()!;
   print("enter ur mark");
   int mark=int.parse(stdin.readLineSync()!);
   if(mark>=40) {
