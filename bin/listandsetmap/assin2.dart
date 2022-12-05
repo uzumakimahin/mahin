@@ -47,10 +47,9 @@ int larger =list [0];
     if (list[n] % 2 == 0 && list[n] > 0) {
       print(list[n]);
     }
-    if(larger<list[n]){
-      larger=list[n];
+    if (larger < list[n]) {
+      larger = list[n];
     }
-
   }
   print(larger);
 }
